@@ -1,5 +1,5 @@
 ### Hello World! 👋
-######## '04, m - from germany
+###### '04, m - from germany
 
 - Apparently GenZ and I dont know how tf I got here...
 - I'm an average **C#** (and sometimes JS) programmer
