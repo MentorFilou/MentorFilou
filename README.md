@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello World ||from germany||! 👋
 
+- Apparently GenZ and I dont know how tf I got here...
+- I'm an average **C#** (and sometimes JS) programmer
+- I'm learning **HTML/CSS**, some **PHP**
+- I'm working with **alt:V** and **Unity Engine**
+- Reach out to me on Discord **MentorFilou#7418** ^^
 <!--
 **MentorFilou/MentorFilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
