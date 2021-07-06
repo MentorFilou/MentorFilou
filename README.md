@@ -3,7 +3,7 @@
 
 - Apparently GenZ and I dont know how tf I got here...
 - I'm an average **C#** (and sometimes JS) programmer
-- I'm learning **HTML/CSS**, some **SQL**
+- I'm learning **HTML/CSS**
 - I'm working with **alt:V** and **Unity Engine**
 - Reach out to me on Discord **MentorFilou#7418** ^^
 <!--
