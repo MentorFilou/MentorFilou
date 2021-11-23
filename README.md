@@ -2,8 +2,8 @@
 ###### '04, male - from germany
 
 - Apparently GenZ and I dont know how tf I got here...
-- I'm an average **C#** (and sometimes JS) programmer
-- I'm learning **HTML/CSS**
+- I'm an average **C#** and **JS/TS** programmer
+- I'm sometimes also learning some **HTML/CSS** in connection with **VueJS**
 - I'm working with **alt:V** and **Unity Engine**
 - Reach out to me on Discord **MentorFilou#7418** ^^
 <!--
