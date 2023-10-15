@@ -2,10 +2,10 @@
 ###### '04, male - from germany
 
 - Apparently GenZ and I dont know how tf I got here...
-- I'm an average **C#** and **JS/TS** programmer
-- I'm sometimes also learning some **HTML/CSS** in connection with **VueJS**
-- I'm working with **alt:V** and **Unity Engine**
-- Reach out to me on Discord **MentorFilou#7418** ^^
+- I prefer **C#** and **JS/TS**, but will do some Java in the near future
+- I did some things in **HTML/CSS** in connection with **VueJS**
+- I worked with **alt:V's Framework** and **Unity Engine**
+- Reach out to me on Discord **@lennarx** ^^
 <!--
 **MentorFilou/MentorFilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
