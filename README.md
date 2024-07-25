@@ -1,8 +1,8 @@
 ### Hello World! 👋
 ###### '04, male - from germany
 
-- Part of Generation Z
-- I prefer **C#** and **JS/TS**, but will did learn **Java** in University
+- Student at University of Hamburg, working for my B.Sc. in Computer Science
+- I prefer **C#** and **JS/TS**, but did learn **Java** in University
 - I did some things in **HTML/CSS**, mostly in connection with **VueJS**
 - I worked with **alt:V's Framework** and **Unity Engine**
 - Reach out to me on Discord **@lennarx** ^^
