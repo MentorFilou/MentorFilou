@@ -3,9 +3,9 @@
 
 - Student at University of Hamburg, working for my B.Sc. in Computer Science
 - I prefer **C#** and **JS/TS**, but did learn **Java** in University
-- I did some things in **HTML/CSS**, mostly in connection with **VueJS**
-- I worked with **alt:V's Framework** and **Unity Engine**
-- Reach out to me on Discord **@lennarx** ^^
+- I worked with **HTML/CSS**, mostly in connection with **VueJS**
+- I adapted **alt:V's Framework** and made some games in **Unity Engine**
+- Reach out to me on Discord **@lennarx**
 <!--
 **MentorFilou/MentorFilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
