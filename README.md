@@ -1,8 +1,8 @@
 ### Hello World! 👋
 ###### '04, male - from germany
 
-- Student at University of Hamburg, working for my B.Sc. in Computer Science
-- I prefer **C#** and **JS/TS**, but did learn **Java** in University
+- Student at University of Hamburg, working towards my B.Sc. in Computer Science
+- I prefer **TS/JS** and **C#**, but did learn **Java** in University and know some **Python**
 - I worked with **HTML/CSS**, mostly in connection with **VueJS**
 - I adapted **alt:V's Framework** and made some games in **Unity Engine**
 - Reach out to me on Discord **@lennarx**
