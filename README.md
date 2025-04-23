@@ -15,6 +15,8 @@ I am Lennard, 20 years old and have been enthusiastic about programming since ar
   <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,vscode,npm,js,html,css,java,cs,py,nodejs,pnpm,github,git,mongodb,mysql,postgresql,unity,md,idea&perline=8" />
 </p>
 
+<!--stats-->
+<!--
 <h3 align="center">
   Stats
 </h3>
@@ -39,7 +41,7 @@ I am Lennard, 20 years old and have been enthusiastic about programming since ar
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+-->
 
 <!--
 **MentorFilou/MentorFilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
