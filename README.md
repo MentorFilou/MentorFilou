@@ -12,7 +12,7 @@ I am Lennard, 20 years old and have been enthusiastic about programming since ar
 </h3>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,vscode,npm,js,html,css,java,cs,nodejs,pnpm,github,git,mongodb,mysqlunity,md,idea&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,vscode,npm,js,html,css,java,cs,nodejs,pnpm,github,git,mongodb,mysql,unity,md,idea&perline=8" />
 </p>
 
 <!--stats-->
