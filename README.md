@@ -2,8 +2,7 @@
 I am Lennard, 21 years old and have been enthusiastic about programming since around 2018. I have been a gamer for even longer and enjoy creating things in my free time. I am also...
 
 - ... a student at University of Hamburg, working towards my B.Sc. in Computer Science.
-- ... a tutor for university students, teaching them Java.
-- ... looking for a working student job at the moment.
+- ... a working student at a global FMCG company as part of an internal software engineering team.
 
 📫 You can reach out to me via Discord @lennarx :)
 
