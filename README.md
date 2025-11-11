@@ -1,5 +1,5 @@
 ### 👋 Hello World!
-I am Lennard, 20 years old and have been enthusiastic about programming since around 2018. I have been a gamer for even longer and enjoy creating things in my free time. I am also...
+I am Lennard, 21 years old and have been enthusiastic about programming since around 2018. I have been a gamer for even longer and enjoy creating things in my free time. I am also...
 
 - ... a student at University of Hamburg, working towards my B.Sc. in Computer Science.
 - ... a tutor for university students, teaching them Java.
